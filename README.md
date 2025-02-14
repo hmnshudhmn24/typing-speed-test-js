@@ -18,6 +18,3 @@ A simple web-based typing speed test that measures WPM (words per minute) and er
 - HTML
 - CSS
 - JavaScript
-
-## Live Demo
-[Run the Typing Speed Test](#)
